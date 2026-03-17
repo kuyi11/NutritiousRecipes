@@ -1,0 +1,3 @@
+id,name,type,summary,has_recipe,meal_type_preference,heaviness,nutrition_role_tags,protein_source_tags,image_url
+mi_breakfast_egg_milk,牛奶+鸡蛋,breakfast_combo,高频基础早餐组合,FALSE,breakfast,light,protein_source|breakfast_combo,egg,
+mi_broccoli_beef,西兰花炒牛肉,dish,常见家常快手菜,TRUE,lunch|dinner,medium,protein_source|vegetable_source,beef,/assets/images/meal_items/mi_broccoli_beef.jpg

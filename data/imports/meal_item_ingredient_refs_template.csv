@@ -1,0 +1,5 @@
+meal_item_id,ingredient_id,amount_per_person_backend,ingredient_role,is_optional,note
+mi_breakfast_egg_milk,ing_egg,1,main,FALSE,
+mi_breakfast_egg_milk,ing_milk,250,main,FALSE,
+mi_broccoli_beef,ing_beef,120,main,FALSE,
+mi_broccoli_beef,ing_broccoli,150,main,FALSE,

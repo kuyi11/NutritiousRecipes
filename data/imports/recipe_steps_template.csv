@@ -1,0 +1,5 @@
+recipe_id,step_no,step_text,step_image_path_or_url,step_image_prompt
+rcp_broccoli_beef,1,牛肉切片后加少量调味料抓匀备用,/assets/images/recipe_steps/rcp_broccoli_beef_01.jpg,家常厨房中处理牛肉片的近景
+rcp_broccoli_beef,2,西兰花切小朵后焯水备用,/assets/images/recipe_steps/rcp_broccoli_beef_02.jpg,家常厨房中焯水后的西兰花近景
+rcp_broccoli_beef,3,热锅下油先快速炒散牛肉后盛出,/assets/images/recipe_steps/rcp_broccoli_beef_03.jpg,家常厨房中翻炒牛肉片的动作近景
+rcp_broccoli_beef,4,锅中下西兰花翻炒后回锅牛肉快速炒匀即可,/assets/images/recipe_steps/rcp_broccoli_beef_04.jpg,家常厨房中西兰花和牛肉合炒完成的近景
